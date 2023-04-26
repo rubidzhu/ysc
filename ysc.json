@@ -47,7 +47,7 @@
 {"key":"csp_Xinsj","name":"✨新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com"},
 {"key":"csp_panghu","name":"🐯胖虎","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/panghu.js"},
 {"key":"101影院","name":"🎞101影院","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/l0l.js"},
-{"key":"csp_Ysgc","name":"🎥影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.vip"},
+{"key":"csp_Ysgc","name":"🎥影视工厂","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/ysgc.json"},
 {"key":"csp_DiDuan","name":"📺低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"石榴影视","name": "🐾石榴影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./sub/shiliu.json"},
 {"key":"巨人影院","name":"💢巨人影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/juren.json"},
