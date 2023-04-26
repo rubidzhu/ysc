@@ -43,7 +43,7 @@
 {"key":"csp_Bd","name":"☀️哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"👨‍🌾宝仙HD","name":"👨‍🌾宝仙HD","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./sub/baoxian.json"},
 {"key":"饭团影视","name":"🍙饭团影视","type":3,"api":"./js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./js/fantuan.js"},
-{"key":"新视觉","name":"✨新视觉","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/caigou.js"},
+{"key":"新视觉","name":"✨新视觉","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/xinshijue.js"},
 {"key":"csp_panghu","name":"🐯胖虎","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/panghu.js"},
 {"key":"101影院","name":"🎞101影院","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/l0l.js"},
 {"key":"奥特","name":"🐼奥特","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/Auete.js"},
